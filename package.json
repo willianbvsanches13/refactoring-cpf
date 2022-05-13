@@ -1,0 +1,13 @@
+{
+  "name": "refactoring-cpf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "dependencies": {
+    "jest": "^28.1.0"
+  }
+}
